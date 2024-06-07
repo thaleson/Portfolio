@@ -1,0 +1,17 @@
+# Arquivos temporários do VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Pasta node_modules gerada pelo npm
+node_modules/
+
+# Arquivos de build
+dist/
+build/
+out/
+.DS_Store
+
+# Outros arquivos específicos para seu projeto podem ser adicionados aqui
